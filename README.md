@@ -8,7 +8,9 @@ Concepts used in developing this website:
 
 Live Website deployed: https://headphones-app-chi.vercel.app/
 
-![Screenshot (18)](https://github.com/ishank1212/HeadphonesApp/assets/73271919/835ceaa9-3352-4c48-a05e-92bd5dfdf696)
-![Screenshot (17)](https://github.com/ishank1212/HeadphonesApp/assets/73271919/d3f696ea-f82b-4f95-903d-88fa1faf6b48)
-![Screenshot (16)](https://github.com/ishank1212/HeadphonesApp/assets/73271919/f4ae5d49-e76e-45e5-aba4-42bed23bbd19)
-![Screenshot (15)](https://github.com/ishank1212/HeadphonesApp/assets/73271919/b3bd22f9-7d0b-4782-b4e7-1ee0a7e7c471)
+![Screenshot (21)](https://github.com/ishank1212/HeadphonesApp/assets/73271919/542cdc52-7d6e-43d8-9f14-761226b1d1cc)
+![Screenshot (22)](https://github.com/ishank1212/HeadphonesApp/assets/73271919/8085362b-b9ea-4da2-97fc-871ec530c12f)
+![Screenshot (25)](https://github.com/ishank1212/HeadphonesApp/assets/73271919/d9a065a4-2a81-4b50-a56e-fcc426fe0908)
+![Screenshot (26)](https://github.com/ishank1212/HeadphonesApp/assets/73271919/83b97d42-b2a2-46ef-8702-fd1c57c54e38)
+![Screenshot (27)](https://github.com/ishank1212/HeadphonesApp/assets/73271919/4a33cb5d-a74e-4e39-bf30-00aed516de4b)
+![Screenshot (28)](https://github.com/ishank1212/HeadphonesApp/assets/73271919/cbc5bb0a-bbeb-4ef9-ae17-5a5afc554673)
