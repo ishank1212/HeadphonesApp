@@ -9,13 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@babel/core": "^7.22.1",
     "@next/font": "13.4.4",
     "@sanity/client": "^5.4.2",
     "@sanity/image-url": "^1.0.2",
     "@sanity/vision": "^3.11.5",
+    "@stripe/stripe-js": "^2.1.2",
     "canvas-confetti": "^1.6.0",
-    "eslint": "8.42.0",
     "eslint-config-next": "13.4.4",
     "next": "13.4.4",
     "next-sanity": "^4.3.3",
@@ -29,6 +28,11 @@
     "styled-components": "^5.3.11"
   },
   "devDependencies": {
-    "@babel/preset-react": "^7.22.3"
+    "@babel/core": "^7.22.15",
+    "@babel/preset-env": "^7.22.15",
+    "@babel/preset-react": "^7.22.15",
+    "eslint": "^8.48.0",
+    "eslint-plugin-next": "^0.0.0",
+    "eslint-plugin-react": "^7.33.2"
   }
 }
