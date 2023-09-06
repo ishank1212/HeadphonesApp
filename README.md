@@ -6,4 +6,6 @@ Concepts used in developing this website:
 3.  Stripe integration for payments, delivery, etc.
 4.  sanity.io to manage the content used in the website.
 
-Live Website deployed: 
+Live Website deployed: https://headphones-app-chi.vercel.app/
+
+
